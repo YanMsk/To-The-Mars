@@ -285,13 +285,13 @@
 	 .product-block_spacesuit {
 		height: 625px;
 		width: 625px;
-		background-image: url(/img/SpacesuitFRONT.png);
+		background-image: url(../img/SpacesuitFRONT.png);
 		transition: opacity .3s ease;
 	 }
 
 	 .product-block_spacesuit:hover {
 	
-		background-image: url(/img/SpacesuitBACK.png);
+		background-image: url(../img/SpacesuitBACK.png);
 		
 	 }
 
@@ -300,7 +300,7 @@
 	 .product-block_model {
 		height: 625px;
 		width: 625px;
-		background-image: url(/img/ModelFRONT.png);
+		background-image: url(../img/ModelFRONT.png);
 		
 	 }
 
@@ -308,7 +308,7 @@
 	 
 	 .product-block_model:hover {
 	 
-		background-image: url(/img/ModelBACK.png);
+		background-image: url(../img/ModelBACK.png);
 	 }
 	
 .btn-container {
@@ -515,8 +515,8 @@
 		 
 		height: 550px;
 		width: 426px;
-		background-image: url(/img/tshirtm.png);
-		transition: opacity .3s ease;
+		background-image: url(../img/tshirtm.png);
+		 
 		background-repeat: no-repeat;
 	 }
 
@@ -528,7 +528,7 @@
 		 
 		height: 550px;
 		width: 426px;
-		background-image: url(/img/tshirtf.png);
+		background-image: url(../img/tshirtf.png);
 		background-repeat: no-repeat;
 	 }
 
@@ -537,7 +537,7 @@
 		 
 		height: 550px;
 		width: 426px;
-		background-image: url(/img/cap.png);
+		background-image: url(../img/cap.png);
 		background-repeat: no-repeat;
 	 }
 
