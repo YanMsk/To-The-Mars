@@ -288,23 +288,23 @@ body {
 .product-block_spacesuit {
   height: 625px;
   width: 625px;
-  background-image: url(/img/SpacesuitFRONT.png);
+  background-image: url(../img/SpacesuitFRONT.png);
   -webkit-transition: opacity 0.3s ease;
   transition: opacity 0.3s ease;
 }
 
 .product-block_spacesuit:hover {
-  background-image: url(/img/SpacesuitBACK.png);
+  background-image: url(../img/SpacesuitBACK.png);
 }
 
 .product-block_model {
   height: 625px;
   width: 625px;
-  background-image: url(/img/ModelFRONT.png);
+  background-image: url(../img/ModelFRONT.png);
 }
 
 .product-block_model:hover {
-  background-image: url(/img/ModelBACK.png);
+  background-image: url(../img/ModelBACK.png);
 }
 
 .btn-container {
@@ -505,7 +505,7 @@ a.shop-button:before {
 .categories-block_tshirtm {
   height: 550px;
   width: 426px;
-  background-image: url(/img/tshirtm.png);
+  background-image: url(../img/tshirtm.png);
   -webkit-transition: opacity 0.3s ease;
   transition: opacity 0.3s ease;
   background-repeat: no-repeat;
@@ -514,14 +514,14 @@ a.shop-button:before {
 .categories-block_tshirtf {
   height: 550px;
   width: 426px;
-  background-image: url(/img/tshirtf.png);
+  background-image: url(../img/tshirtf.png);
   background-repeat: no-repeat;
 }
 
 .categories-block_cap {
   height: 550px;
   width: 426px;
-  background-image: url(/img/cap.png);
+  background-image: url(../img/cap.png);
   background-repeat: no-repeat;
 }
 
